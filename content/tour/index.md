@@ -1,5 +1,5 @@
 ---
-title: Tour
+title: 研究方向
 date: 2022-10-24
 
 type: landing
