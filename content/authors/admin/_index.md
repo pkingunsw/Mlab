@@ -1,6 +1,7 @@
 ---
-title: Peng Wang (汪鹏)
+title: 汪鹏
 role: 研究员
+avatar_filename: photo.jpg
 bio: 交叉人工智能与物质循环
 interests:
   - 物质循环数智工程
